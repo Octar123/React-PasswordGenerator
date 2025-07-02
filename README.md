@@ -7,8 +7,8 @@ This is a simple and customizable Password Generator built with React. It allows
 - Choose password length
 
 - Include/exclude:
-    Numbers (0–9)
-    Special characters (!, @, #, etc.)
+    - Numbers (0–9)
+    - Special characters (!, @, #, etc.)
 
 - Copy generated password to clipboard
 
